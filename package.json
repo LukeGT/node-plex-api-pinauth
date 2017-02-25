@@ -22,7 +22,7 @@
     "request": "^2.61.0"
   },
   "peerDependencies": {
-    "plex-api": "^3.2.0"
+    "plex-api": ">=3.2.0"
   },
   "devDependencies": {
     "chai": "^3.2.0",
